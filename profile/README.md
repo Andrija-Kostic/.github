@@ -1,109 +1,32 @@
 <div align="center">
-# Studio Kostić
- 
-**Visual Identity. Web Design. Branding.**
- 
-Belgrade, Serbia — [@studiokostic](https://instagram.com/studiokostic)
- 
-</div>
----
- 
-## About
- 
-This is the repository for the official portfolio website of **Studio Kostić** — a boutique visual identity and branding studio based in Belgrade. The site is built as the studio's digital business card: minimalist, dark, "blueprint" aesthetic reflecting a precise, technical approach to design.
- 
-The studio works across:
- 
-- Web design
-- Logo & brand identity
-- Custom development
-- Graphic design
----
- 
-## Features
- 
-- **Blueprint aesthetic** — dark, minimalist visual theme inspired by technical schematics
-- **Portfolio-first approach** — the site is built to showcase work, not push hard sales
-- **Serbian-language navigation**
-- **Numbered work entries** with accompanying metadata (client, year, service type)
-- **Availability status indicator** — studio status (available / booked) visible on the site
-- **Quiet CTAs** — calls to action woven into the design, no aggressive "sales" tone
-- Fully responsive across screen sizes
----
- 
-## Tech Stack
- 
-> Assumed — adjust if the actual stack differs
- 
-- HTML5
-- CSS3 (custom, no framework)
-- JavaScript (Vanilla)
----
- 
-## Getting Started
- 
-Since the site is static (no build step required), running it locally is simple:
- 
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/studiokostic.git
- 
-# 2. Move into the folder
-cd studiokostic
- 
-# 3. Open index.html directly in your browser
-# or run a local server, e.g.:
-npx serve .
-```
- 
-The site will be available at `http://localhost:3000` (or whichever port the tool reports).
- 
----
- 
-## Project Structure
- 
-```
-studiokostic/
-├── index.html          # Home page
-├── /assets
-│   ├── /images           # Images, logo, portfolio work
-│   └── /fonts             # Custom fonts (if any)
-├── /css
-│   └── style.css         # Main styles
-├── /js
-│   └── main.js            # Interactions and logic
-└── README.md
-```
- 
-> Note: this structure is a rough guide — adjust it to match the actual file organization in the repository.
- 
----
- 
-## Deployment
- 
-The site can be hosted on any static platform, such as:
- 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://netlify.com/)
----
- 
-## Roadmap
- 
-- [ ] Additional case studies in the portfolio
-- [ ] Performance and SEO optimization
-- [ ] Blog / journal section
-- [ ] Multilingual support (SR / EN)
----
- 
-## Contact
- 
-**Studio Kostić**
+STUDIO KOSTIĆ
+
+Visual Identity — Web Design — Branding
+
 Belgrade, Serbia
- 
-- Instagram: [@studiokostic](https://instagram.com/studiokostic)
----
- 
-## License
- 
-All content, design, and code in this repository are the property of Studio Kostić unless otherwise noted. All rights reserved © 2026.
+
+</div> <br>
+
+Studio Kostić designs visual identities for brands that would rather look considered than loud. Every project starts as a blueprint — measured, stripped to what actually matters — before it becomes a logo, a site, or a system.
+
+<br>
+What We Do
+
+Brand Identity — logo design, visual systems, brand guidelines Web Design — portfolio and business sites, built to be lived in, not just launched Development — custom-built, no template shortcuts Graphic Design — everything a brand needs to hold its shape across every surface
+
+<br>
+Selected Work
+
+Ignition — Catalyst Moto A rebrand concept for a Belgrade motorcycle gear shop — built around speed, precision, and the kind of confidence that doesn't need to shout about it.
+
+<br>
+Approach
+
+01 Structure before style — the grid comes first, the polish comes last 02 Restraint over decoration — nothing on the page that isn't doing a job 03 Built to last — identities designed to hold up past the first impression
+
+<br>
+Studio
+
+Based in Belgrade. Open to new projects — status visible on the site.
+
+Instagram — @studiokostic
